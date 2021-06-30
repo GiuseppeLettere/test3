@@ -137,6 +137,13 @@
     <Content Include="FunctionJS1.js">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="FunctionJS2.function.json">
+      <SubType>Content</SubType>
+      <DependentUpon>FunctionJS2.js</DependentUpon>
+    </Content>
+    <Content Include="FunctionJS2.js">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Server\TcHmiLua\TcHmiLua.Config.default.json">
       <SubType>Content</SubType>
     </Content>
