@@ -33,6 +33,11 @@
       "name": "Fonts/Fonts.css",
       "description": "",
       "type": "Stylesheet"
+    },
+    {
+      "name": "FunctionJS1.js",
+      "description": "",
+      "type": "JavaScript"
     }
   ],
   "userControls": [],
@@ -44,7 +49,11 @@
       "keepAlive": false
     }
   ],
-  "userFunctions": [],
+  "userFunctions": [
+    {
+      "url": "FunctionJS1.js"
+    }
+  ],
   "symbols": {
     "internal": {}
   },
